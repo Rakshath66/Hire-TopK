@@ -29,7 +29,7 @@ export default function CandidateList({
               <p className="text-sm text-gray-500">{candidate.location}</p>
             </div>
             <Badge variant="secondary">
-              Score: {candidate.score?.total.toFixed(1)}
+              Score: {candidate.scores?.total.toFixed(1)}
             </Badge>
           </div>
 
