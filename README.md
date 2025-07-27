@@ -155,7 +155,7 @@ Paste JSON directly into the app’s input section.
 
 ## 📄 License
 
-MIT © [Your Name](https://github.com/rakshath66)
+MIT © [Rakshath U Shetty](https://github.com/rakshath66)
 
 ```text
 Permission is hereby granted, free of charge, to any person obtaining a copy
